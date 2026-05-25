@@ -65,9 +65,11 @@ positively influence both order volume and customer perception.
 
 ## Project Structure
 
+```text
 swiggy-zomato-analysis/
 ├── data/
-│ └── swiggy_vs_zomato_3000.csv
+│   └── swiggy_vs_zomato_3000.csv
 ├── load_data.ipynb
 ├── queries.sql
 └── README.md
+```
